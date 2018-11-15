@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
+* [script.js](./CS/scripts/script.js) (VB: [script.js](./VB/scripts/script.js))
+<!-- default file list end -->
 # How to drag a row from ASPxGridView to ASPxScheduler
 
 
