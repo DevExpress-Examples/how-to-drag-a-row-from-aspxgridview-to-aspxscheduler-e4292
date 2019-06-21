@@ -7,6 +7,9 @@
 * [script.js](./CS/scripts/script.js) (VB: [script.js](./VB/scripts/script.js))
 <!-- default file list end -->
 # How to drag a row from ASPxGridView to ASPxScheduler
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4292/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to create an appointment based on dragged row values of ASPxGridView.</p>
